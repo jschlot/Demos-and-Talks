@@ -49,7 +49,7 @@
 **jsFiddle** - try out, share and test your code
 [http://jsfiddle.net/](http://jsfiddle.net/)
 
-## Format, Test, and prepare your code for production
+## Prepare your code for production
 
 **Free Formatter** - formats, validates, and minifies
 [http://www.freeformatter.com/](http://www.freeformatter.com/)
