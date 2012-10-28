@@ -1,0 +1,106 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+
+@import url(http://fonts.googleapis.com/css?family=Arbutus+Slab);
+
+body {
+	background: url(../images/noise.jpg);
+}
+
+header {
+	background: rgb(35, 7, 68);
+	padding: 1em 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 5000;
+}
+
+header h1 {
+	background: rgb(140, 117, 153);
+	border: 1px solid silver;
+	font-family: 'Arbutus Slab', serif;
+	font-size: 200%;
+	width: 6em;
+}
+
+header h1 span {
+	display: inline-block;
+	border-right: 1px solid silver;
+	background: rgba(65, 7, 98, .80);
+	color: rgb(255,255,255);
+	padding: 0 .2em;
+	margin: 0;
+}
+
+#main-navigation .float-right { 
+	float: right;
+}
+
+#main-navigation { 
+	margin: 0;
+	background: none;
+}
+
+section { 
+	background: rgba(255, 255, 255, .90);
+}
+
+#hero-unit {
+	margin-top: 5em;
+	padding-top: 1em;
+	min-height: 370px;
+}
+
+#buckets {
+	padding-top: 2em;
+	background: rgba(140, 117, 153, .75);
+	min-height: 8em;
+}
+
+footer {
+	padding-top: 1em;
+	min-height: 20em;
+}
+
+div.alert-box {
+	background-color: rgba(140, 117, 153, .75);
+}
+
+.button {
+	background-color: rgb(140, 117, 153);
+}
+
+.button:hover {
+	background-color: rgba(140, 117, 153, .50);
+}
+
+.bottom-links {
+	border-top: 1px solid silver;
+	padding-top: 1em;
+}
+
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+
