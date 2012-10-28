@@ -1,8 +1,64 @@
-Demo Exposition
-=============
+### Latest Tech Talk ([wiki](https://github.com/jschlot/Demos/wiki))
 
-This is my github page for demonstrating my code to others, as well as a place to stash cool snippets.
+* [Mail Box Pattern Tech Talk](https://github.com/jschlot/Demos/wiki/Mail-Box-Pattern-Tech-Talk)
 
-7th Level
--------
-This is a e-commerce landing page I created for a metaphysical store.
+### Latest Sample Code
+
+* [7th Level Store Landing Page](https://github.com/jschlot/Demos/tree/master/7th_level_landing_page)
+
+
+## Web Building Frameworks:
+
+**jQuery** - javascript framework
+[http://jquery.com/](http://jquery.com/)
+
+**sammyJS** - Location hash routing
+[http://sammyjs.org/](http://sammyjs.org/)
+
+**knockoutJS** - MVVM framework
+[http://knockoutjs.com/](http://knockoutjs.com/)
+
+**kendoUI** - Awesome UI widgets
+[http://www.kendoui.com/](http://www.kendoui.com/)
+
+**Foundation** - GUI Scaffold
+[http://foundation.zurb.com/](http://foundation.zurb.com/)
+
+### Alternatives
+**Twitter Bootstrap** - GUI Scaffold
+[http://twitter.github.com/bootstrap/](http://twitter.github.com/bootstrap/)
+
+**Wijmo** - UI Widgets
+[http://wijmo.com/](http://wijmo.com/)
+
+**YUI** - Yahoo's all-in-one UI kit
+[http://yuilibrary.com/](http://yuilibrary.com/)
+
+
+## Cool mockup/documentation tools
+
+**Gist** - Beautiful code snippets
+[https://gist.github.com/](https://gist.github.com/)
+
+**Placeholder** - Beautiful, easy FPO graphics
+[http://placehold.it/](http://placehold.it/)
+
+**SpritePad** - create CSS sprites fast
+[http://spritepad.wearekiss.com/](http://spritepad.wearekiss.com/)
+
+**jsFiddle** - try out, share and test your code
+[http://jsfiddle.net/](http://jsfiddle.net/)
+
+## Format, Test, and prepare your code for production
+
+**Free Formatter** - formats, validates, and minifies
+[http://www.freeformatter.com/](http://www.freeformatter.com/)
+
+**QUnit** - test your jQuery code
+[http://qunitjs.com/](http://qunitjs.com/)
+
+**JS Lint** - check your JS before you `$ git commit`
+[http://www.jslint.com/](http://www.jslint.com/)
+
+**CSS Lint** - check your CSS too
+[http://csslint.net/](http://csslint.net/)
