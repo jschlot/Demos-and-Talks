@@ -62,3 +62,13 @@
 
 **CSS Lint** - check your CSS too
 [http://csslint.net/](http://csslint.net/)
+
+
+## Get Control of your shell ##
+
+**Dotfiles** - config VIM, shell, etc
+http://dotfiles.github.com/
+
+**Solarized** - Great color pallets for your IDEs, and UIs
+http://ethanschoonover.com/solarized
+
